@@ -1,3 +1,8 @@
+*{
+
+    /* box-sizing: border-box; */
+}
+
 body{
     /* margin: 0%; */
     /* background-image:  url("../images/11.jpg"); */
@@ -9,12 +14,25 @@ body{
 margin: 5%;
 
 }
+article{
+    background-color: wheat;
+    width: 90%;
+}
+main{
+    background-color: yellow;
+}
+header h2{
+    float: left;
+}
 .logo{
     /* background-image: url("../images/logo.gif"); */
     /* background-size:auto; */
-    width:80px;
-    height:80px ;
+    width:70px;
+    height:70px ;
+    float: left;
+
 }
+nav{}
 
 
 header, main, footer{
@@ -28,6 +46,8 @@ background-color: rgb(51,144,180);
 /* margin: 5px 10px ; */
 /* width: 90%; */
 height: 80px;
+text-align: center;
+border: 5px solid black;
 /* border-radius: 10px; */
 
 
