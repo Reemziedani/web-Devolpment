@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    background-color: lightseagreen;
+}
+
+.flex-container div{
+background-color: wheat;
+/* width: 100px; */
+/* height: 200px; */
+margin: 10px;
+padding: 20px;
+font-size: 30px;
+line-height: 5px;
+/* height: 5px; */
+text-align: center;
+/* justify-content: space-evenly; */
+/* align-content: space-around; */
+
+}
