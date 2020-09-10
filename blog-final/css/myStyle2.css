@@ -1,0 +1,15 @@
+/* font */
+*{
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Overpass', sans-serif;
+}
+.row{
+  margin-top: 10px;
+}
+.container{
+  margin-top:80px ;
+}
+.imges{
+  box-shadow: 2px  2px 2px rgb(226, 223, 223);
+  
+}
